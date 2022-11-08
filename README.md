@@ -3,6 +3,7 @@
 
 
  ### I have technical experience and interest in -
+* Python Development
 * Machine Learning
 * Data Science
 * Natural Language Processing 
