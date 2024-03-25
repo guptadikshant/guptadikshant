@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dikshant Gupta</h1>
-<h3 align="center">Solution-oriented and problem solver with 3 years of experience in Development and Analytics field with proven experience in delivering end to end project to the client. Hands on experience leveraging machine learning, deep learning and transfer learning models to business use cases</h3>
+<h3 align="center">Solution-oriented and problem solver with 4.5 years of experience in Python Development and Data Science and Machine Learning field with proven experience in delivering end to end project to the client. Hands on experience leveraging machine learning, deep learning and transfer learning models to business use cases</h3>
 
 
  ### I have technical experience and interest in -
 * Python Development
 * Machine Learning
 * Data Science
-* Natural Language Processing 
-* Robotics
+* Natural Language Processing
+* Generative AI
 
 - 📫 How to reach me **guptadikshant99@gmail.com**
 
