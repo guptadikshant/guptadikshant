@@ -1,7 +1,5 @@
-&lt;h1 align="center"&gt;Hi &#128075;, I'm Dikshant Gupta&lt;/h1&gt;
-&lt;h3 align="center"&gt;Solution-oriented and problem solver with 6+ years of experience in Python Development and Generative AI field with proven experience in delivering end to end project to the client. Hands on experience leveraging machine learning and deep learning, transfer learning, GenAI, RAG, Agents to business use cases&lt;/h3&gt;
-
-
+<h1 align="center">Hi 👋, I'm Dikshant Gupta</h1>
+<h3 align="center">Senior GenAI & LLM Engineer with 6+ years of expertise in building end-to-end AI solutions. Specialist in RAG, AI Agents, and Generative AI. Proven track record of leveraging Deep Learning and Machine Learning to drive business value through production-ready code.</h3>
 
 ### I have technical experience and interest in -
 * Python Development
@@ -10,15 +8,27 @@
 * Natural Language Processing
 * Generative AI
 * Agents
-- &#128231; How to reach me **guptadikshant99@gmail.com**
+- ✉️ How to reach me **guptadikshant99@gmail.com**
 
-&lt;h3 align="left"&gt;Languages and Tools:&lt;/h3&gt;
-&lt;p align="left"&gt; &lt;a href="https://aws.amazon.com" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.docker.com/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://git-scm.com/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.jenkins.io" target="_blank" rel="noreferrer"&gt; &lt;img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.mysql.com/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.python.org" target="_blank" rel="noreferrer"&gt; &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://pytorch.org/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"&gt; &lt;img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/&gt; &lt;/a&gt; &lt;a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"&gt; &lt;img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/&gt; &lt;/a&gt; &lt;/p&gt;
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+	<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 
-&lt;h3 align="left"&gt;Connect with me:&lt;/h3&gt;
-&lt;p align="left"&gt;
-&lt;a href="https://twitter.com/DikshantGupta7" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshantgupta7" height="30" width="40" /&gt;&lt;/a&gt;
-&lt;a href="https://linkedin.com/in/dikshant-gupta-9a7083170" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshant gupta" height="30" width="40" /&gt;&lt;/a&gt;
-&lt;a href="https://kaggle.com/guptadikshant" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dikshant gupta" height="30" width="40" /&gt;&lt;/a&gt;
-&lt;a href="https://www.leetcode.com/guptadikshant" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptadikshant" height="30" width="40" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://twitter.com/DikshantGupta7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshantgupta7" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/dikshant-gupta-9a7083170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshant gupta" height="30" width="40" /></a>
+	<a href="https://kaggle.com/guptadikshant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dikshant gupta" height="30" width="40" /></a>
+	<a href="https://www.leetcode.com/guptadikshant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptadikshant" height="30" width="40" /></a>
+</p>
